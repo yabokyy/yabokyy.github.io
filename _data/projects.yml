@@ -1,0 +1,9 @@
+- name: yabokyy.github.io
+  category: Веб
+  symbol: "</>"
+  description: Мой уголок интернета. Личная страница, проекты и немного обо мне.
+  url: https://github.com/yabokyy/yabokyy.github.io
+  tags:
+    - Jekyll
+    - HTML / CSS
+    - GitHub Pages
