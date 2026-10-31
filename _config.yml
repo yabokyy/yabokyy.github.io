@@ -1,0 +1,21 @@
+title: yabokyy
+description: "Личная страница: обо мне, проектах и интересах."
+author: yabokyy
+lang: ru
+timezone: Europe/Moscow
+
+url: "https://yabokyy.github.io"
+baseurl: ""
+
+theme: minima
+github_username: yabokyy
+
+header_pages:
+  - about.md
+
+exclude:
+  - README.md
+  - AGENTS.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
